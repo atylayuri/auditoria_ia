@@ -1,0 +1,6 @@
+{
+  "name": "OS Data Organizer",
+  "description": "Ferramenta para organizar e formatar dados de Ordens de Serviço (sistema IXCSoft) conforme padrões específicos de exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
